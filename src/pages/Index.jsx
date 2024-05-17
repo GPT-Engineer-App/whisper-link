@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Box, Container, VStack, HStack, Input, Button, Text, Avatar, IconButton, Image } from "@chakra-ui/react";
 import { FaPaperPlane } from "react-icons/fa";
 
